@@ -15,15 +15,15 @@ La société Orion souhaite améliorer sa performance à l’aide d’un systèm
 Voici quelques questions qui ont été recensées et auxquelles devrait répondre le système mis en place :\
 − Quels sont les produits qui se vendent le mieux ?\
 − Quels sont les produits en perte de vitesse ?\
-− Quels sont les produits qui contribuent très peu au chiffre d’affaire pour un pays et une année donnés ? Est-ce que ces produits peuvent être remisés ?\ 
+− Quels sont les produits qui contribuent très peu au chiffre d’affaire pour un pays et une année donnés ? Est-ce que ces produits peuvent être remisés ?\
 − Quelle est la marge générée par ce groupe de produit ?\
 − Est-ce que la marge dépend de la quantité vendue ?\
-− Est-ce que les remises font augmenter les ventes ?\ 
-− Est-ce que les remises font augmenter la marge ?\ 
+− Est-ce que les remises font augmenter les ventes ?\
+− Est-ce que les remises font augmenter la marge ?\
 − Quels sont les commerciaux qui font le plus de ventes ?\
 − Quels sont les commerciaux qui performent le mieux par pays, sexe, âge, salaire ?\
 − Quels groupes de clients sont identifiés ?\
-− Quels sont les clients les plus rentables ?\ 
+− Quels sont les clients les plus rentables ?\
 − Quels fournisseurs proposent des produits rentables?\
 − Quelle est la moyenne et l’écart-type du chiffre d’affaire ?\
 − Quelles sont les variables qui expliquent le mieux l’importance du chiffre d’affaire ?\
