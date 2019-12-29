@@ -1,4 +1,5 @@
 # Business Intelligence : Société Orion
+<p align="justify">
 
 [L'enoncé du TP](http://fc.isima.fr/~kang/cemagref/TPTalend.pdf "TP Business Intelligence Cas Orion")
 
@@ -10,7 +11,6 @@ Structure du dossier:
   Le dossier rapports       : regroupe le rapport, les captures des jobs de transformations et le tableau d'association. 
 
 ### Mise en place d'un système décisionnel
-
 La société Orion souhaite améliorer sa performance à l’aide d’un système décisionnel.\
 Voici quelques questions qui ont été recensées et auxquelles devrait répondre le système mis en place :\
 − Quels sont les produits qui se vendent le mieux ?\
@@ -27,5 +27,6 @@ Voici quelques questions qui ont été recensées et auxquelles devrait répondr
 − Quels fournisseurs proposent des produits rentables?\
 − Quelle est la moyenne et l’écart-type du chiffre d’affaire ?\
 − Quelles sont les variables qui expliquent le mieux l’importance du chiffre d’affaire ?\
-− Y-a-t’il une différence significative entre la moyenne de la somme du chiffre d’affaire géré par les commerciaux de sexe féminin et celle des commerciaux de sexe masculin ? Il faut donc construire un entrepôt de données capable de répondre aux besoins de requête, de reporting, et d’analyses avancées. 
+− Y-a-t’il une différence significative entre la moyenne de la somme du chiffre d’affaire géré par les commerciaux de sexe féminin et celle des commerciaux de sexe masculin ? Il faut donc construire un entrepôt de données capable de répondre aux besoins de requête, de reporting, et d’analyses avancées.
+</p>
 
