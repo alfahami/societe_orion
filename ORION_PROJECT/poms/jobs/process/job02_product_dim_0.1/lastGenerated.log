@@ -1,0 +1,40 @@
+[INFO] Disabling enhanced local repository: using legacy is strongly discouraged to ensure build reproducibility.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------< org.example.orion_project.job:Job02_Product_Dim >-----------
+[INFO] Building ORION_PROJECT Job02_Product_Dim-0.1.0 (0.1,Job Designs) 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for commons-collections:commons-collections:jar:3.2.2 is missing, no dependency information available
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ Job02_Product_Dim ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ Job02_Product_Dim ---
+[WARNING] The POM for org.eclipse.platform:org.eclipse.osgi:jar:3.13.300 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-exec:jar:1.2 is missing, no dependency information available
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ Job02_Product_Dim ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ Job02_Product_Dim ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ Job02_Product_Dim ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ Job02_Product_Dim ---
+[INFO] Building jar: /home/comocoder/Documents/talend-workspace/ORION_PROJECT/poms/jobs/process/job02_product_dim_0.1/target/job02_product_dim_0_1.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ Job02_Product_Dim ---
+[INFO] Reading assembly descriptor: /home/comocoder/Documents/talend-workspace/ORION_PROJECT/poms/jobs/process/job02_product_dim_0.1/src/main/assemblies/assembly.xml
+[WARNING] Missing POM for commons-collections:commons-collections:jar:3.2.2
+[WARNING] The POM for org.apache.felix:maven-bundle-plugin:jar:2.1.0 is missing, no dependency information available
+[INFO] Building zip: /home/comocoder/Documents/talend-workspace/ORION_PROJECT/poms/jobs/process/job02_product_dim_0.1/target/job02_product_dim_0_1.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.129 s
+[INFO] Finished at: 2019-12-20T21:46:32+02:00
+[INFO] ------------------------------------------------------------------------
