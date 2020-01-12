@@ -6,8 +6,8 @@
 Ce projet répond à la plupart des questions suivantes.
 
 Structure du dossier:
-  Le dossier ORION_PROJECT  : est le projet créé avec Talend Open Studio
-  Le dossier SQL            : contient les scripts sql de création de la base de données entrepot.
+  Le dossier ORION_PROJECT  : est le projet créé avec Talend Open Studio\
+  Le dossier SQL            : contient les scripts sql de création de la base de données entrepot.\
   Le dossier rapports       : regroupe le rapport, les captures des jobs de transformations et le tableau d'association. 
 
 ### Mise en place d'un système décisionnel
