@@ -30,3 +30,12 @@ Voici quelques questions qui ont été recensées et auxquelles devrait répondr
 − Y-a-t’il une différence significative entre la moyenne de la somme du chiffre d’affaire géré par les commerciaux de sexe féminin et celle des commerciaux de sexe masculin ? Il faut donc construire un entrepôt de données capable de répondre aux besoins de requête, de reporting, et d’analyses avancées.
 </p>
 
+### Auteur
+ [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Resume and protfolio page")
+ 
+ [FACULTE DES SCIENCES - KENITRA](http://fs.uit.ac.ma/ "Site officiel")
+ 
+ DEPARTEMENT DE MATHEMATIQUES ET INFORMATIQUE
+ 
+ ### Licence: 
+ Le projet est disponible en open source selon les termes de la [licence MIT](https://opensource.org/licenses/MIT).
