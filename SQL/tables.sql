@@ -8,7 +8,7 @@ CREATE TABLE Customer_Dim(
     Customer_Name CHARACTER(40),
     Customer_fistname CHARACTER(20),
     Customer_Lastname CHARACTER(30),
-    Customer_Birth_Date DATABASE
+    Customer_Birth_Date DATE
 );
 
 CREATE TABLE Organization_Dim (
