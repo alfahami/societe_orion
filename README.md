@@ -1,4 +1,4 @@
-# Business Intelligence : Société Orion
+# Business Intelligence [TP TALEND] : Société Orion
 <p align="justify">
 
 [L'énoncé [PDF]](enonce/TPTalend.pdf)
