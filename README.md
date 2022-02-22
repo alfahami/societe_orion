@@ -2,8 +2,10 @@
 <p align="justify">
 
 [L'énoncé](enonce/TPTalend.pdf)
+
 [Lien du base de données access orion](enonce/orion.mdb) ou [Google Drive](https://drive.google.com/file/d/13OiKNBlMjsUoFBKrMtn9wS0JhObV1-ET/view?usp=sharing)
-[Proposition de solution](rapports/talend_rapport.pdf)
+
+[Proposition de solution [PDF]](rapports/talend_rapport.pdf)
 
 Ce projet répond à la plupart des questions suivantes.
 
