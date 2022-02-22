@@ -2,6 +2,7 @@
 <p align="justify">
 
 [L'énoncé](enonce/TPTalend.pdf)
+[Lien du base de données access orion](enonce/orion.mdb) ou [Google Drive](https://drive.google.com/file/d/13OiKNBlMjsUoFBKrMtn9wS0JhObV1-ET/view?usp=sharing)
 [Proposition de solution](rapports/talend_rapport.pdf)
 
 Ce projet répond à la plupart des questions suivantes.
@@ -32,12 +33,12 @@ Voici quelques questions qui ont été recensées et auxquelles devrait répondr
 − Y-a-t’il une différence significative entre la moyenne de la somme du chiffre d’affaire géré par les commerciaux de sexe féminin et celle des commerciaux de sexe masculin ? Il faut donc construire un entrepôt de données capable de répondre aux besoins de requête, de reporting, et d’analyses avancées.
 </p>
 
-
-<object data="https://github.com/alfahami/societe_orion/blob/master/rapports/talend_rapport.pdf" type="application/pdf" width="700px" height="700px">
+<!--<object data="https://github.com/alfahami/societe_orion/blob/master/rapports/talend_rapport.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/alfahami/societe_orion/blob/master/rapports/talend_rapport.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/alfahami/societe_orion/blob/master/rapports/talend_rapport.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+-->
 
 ### Auteur
  [AL-FAHAMI TOIHIR](https://alfahami.github.io/ "Resume and protfolio page")
