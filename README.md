@@ -1,7 +1,7 @@
 # Business Intelligence : Société Orion
 <p align="justify">
 
-[L'énoncé](enonce/TPTalend.pdf)
+[L'énoncé [PDF]](enonce/TPTalend.pdf)
 
 [Lien du base de données access orion](enonce/orion.mdb) ou [Google Drive](https://drive.google.com/file/d/13OiKNBlMjsUoFBKrMtn9wS0JhObV1-ET/view?usp=sharing)
 
